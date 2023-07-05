@@ -1,0 +1,8 @@
+.first{
+    background-color: aquamarine;
+    margin: 5px 5px;
+    padding: 5px 5px;
+}
+.first,h3{
+    font-size: 40px;
+}
